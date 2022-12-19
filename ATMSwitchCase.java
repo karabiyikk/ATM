@@ -1,5 +1,3 @@
-package Donguler;
-
 import java.util.Scanner;
 
 public class ATMSwitchCase {
